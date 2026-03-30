@@ -29,7 +29,7 @@ The goal of this project is to analyze personal finance transactions for 2025 to
 - April and December had the highest spending due to seasonal purchases.
 - Top 3 expense categories: zelle, Groceries, and Entertainment, contributing ~55% of total expenses.
 - Digital payments (Zelle) are used more frequently than cash.
-- Monthly savings rate is ~15-20% of income.
+- Monthly savings rate is ~8% of income.
 
   
 ## Final Conclusion:
