@@ -11,7 +11,7 @@ The goal of this project is to analyze personal finance transactions for 2025 to
 - Percentage between spending categories.
 - Which month has the highest spending?
 
-- Dashboard Interaction
+- Dashboard Interaction <a href= "https://github.com/adarson214/Abigail-s_Portfolio/blob/main/Screenshot-BudgetCard-2025.png">View Dashboard</a>
 
 ## Process
 - Data Cleaning: Checked for missing values, duplicates, and inconsistent formats; corrected where necessary.
@@ -20,6 +20,8 @@ The goal of this project is to analyze personal finance transactions for 2025 to
 - Visualization: Combined pivot tables into a dashboard using charts, slicers, and tables for interactive exploration.
 
 ## Dashboard
+
+<img width="2025" height="1003" alt="Screenshot-BudgetCard-2025" src="https://github.com/user-attachments/assets/119a7e40-d9dc-4bb2-a1b9-ff2ca589c40d" />
 
 
 ## Project Insight
